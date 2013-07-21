@@ -1,6 +1,6 @@
-Euro Truck Simulator 2 physical gauges prototype
-================================================
+##Euro Truck Simulator 2 Physical Gauges Prototype##
 
-##Software Requirements##
+
+###Software Requirements###
 * PySerial module for Python
 * ETS2 Telemetry Server by UltimateVision
